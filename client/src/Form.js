@@ -50,7 +50,7 @@ alert("Image Uploaded")
             id='name'
             name="name"
             className='namefeild'
-            placeholder="Name"
+            placeholder="Your Name"
             />
           <div className='outer'>
 
